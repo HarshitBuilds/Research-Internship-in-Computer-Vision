@@ -5,7 +5,7 @@ We worked on the identification and quantification of voids which was found in o
 
 Our key contributions include: 
 
-  -Developing a GUI(graphical User Interface) for manual hand annotation.
+  -Developing a GUI(Graphical User Interface) for manual hand annotation.
   
   -Creating and training a neural network based on the U-net architecture for the task of image segmentation.
   
