@@ -11,3 +11,6 @@ Our key contributions include:
   
   -Curating a data pipeline for preprocessing data and generating ground truth mask required for training the model.
 
+  ![image](https://github.com/user-attachments/assets/e0848b10-e2e8-49d8-bfa3-e4f5df901c21)
+
+
